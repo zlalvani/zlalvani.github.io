@@ -1,2 +1,2 @@
-# zaran-webzone-jekyll
-unbuilt development version of my personal website
+# zlalvani.github.io
+live version of my personal website
