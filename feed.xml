@@ -6,15 +6,15 @@
 </description>
     <link>http://zaran.me/</link>
     <atom:link href="http://zaran.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2016 07:50:54 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 07:50:54 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2016 09:49:40 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 09:49:40 +0000</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>New year, new blog</title>
-        <description>&lt;p&gt;Hi, my name is Zaran. I’m going to post updates on the projects I’m working on here. Let’s see how the &lt;a href=&quot;https://rcos.io/projects/zlalvani/checkers-learner/profile&quot;&gt;Checkers AI&lt;/a&gt; pans out.&lt;/p&gt;
+        <description>&lt;p&gt;Hi, my name’s Zaran. I’m going to post updates on the projects I’m working on here. Let’s see how the &lt;a href=&quot;https://rcos.io/projects/zlalvani/checkers-learner/profile&quot;&gt;Checkers AI&lt;/a&gt; pans out.&lt;/p&gt;
 
-&lt;p&gt;Here’s the worst function I’ve ever written, posted here for the sake of posterity:&lt;/p&gt;
+&lt;p&gt;For fun, here’s the worst function I’ve ever written, posted for the sake of posterity:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;printForGnuplot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;learn_points&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a_star&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b_star&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;which&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;gpScript&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;which&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;script.gp&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;w+&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
